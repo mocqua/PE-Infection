@@ -1,0 +1,11 @@
+﻿  PE_Infection.cpp
+F:\thuctap\PE_Infection\PE_Infection.cpp(15,1): warning C4102: 'getkernel32': unreferenced label
+F:\thuctap\PE_Infection\PE_Infection.cpp(24,4): warning C4102: 'getAddressofName': unreferenced label
+F:\thuctap\PE_Infection\PE_Infection.cpp(43,1): warning C4102: 'getProcAddressFunc': unreferenced label
+F:\thuctap\PE_Infection\PE_Infection.cpp(54,4): warning C4102: 'getLoadLibraryA': unreferenced label
+F:\thuctap\PE_Infection\PE_Infection.cpp(63,4): warning C4102: 'getUser32': unreferenced label
+F:\thuctap\PE_Infection\PE_Infection.cpp(70,4): warning C4102: 'getMessageBox': unreferenced label
+F:\thuctap\PE_Infection\PE_Infection.cpp(78,4): warning C4102: 'MessageBoxA': unreferenced label
+F:\thuctap\PE_Infection\PE_Infection.cpp(103,4): warning C4102: 'caption': unreferenced label
+F:\thuctap\PE_Infection\PE_Infection.cpp(105,4): warning C4102: 'text': unreferenced label
+  PE_Infection.vcxproj -> F:\thuctap\PE_Infection\Debug\PE_Infection.exe

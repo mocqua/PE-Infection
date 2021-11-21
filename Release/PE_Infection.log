@@ -1,0 +1,15 @@
+﻿  PE_Infection.cpp
+F:\thuctap\PE_Infection\PE_Infection.cpp(17,3): warning C4102: 'getkernel32': unreferenced label
+F:\thuctap\PE_Infection\PE_Infection.cpp(26,3): warning C4102: 'getAddressofName': unreferenced label
+F:\thuctap\PE_Infection\PE_Infection.cpp(45,1): warning C4102: 'getProcAddressFunc': unreferenced label
+F:\thuctap\PE_Infection\PE_Infection.cpp(55,4): warning C4102: 'getLoadLibraryA': unreferenced label
+F:\thuctap\PE_Infection\PE_Infection.cpp(64,4): warning C4102: 'getUser32': unreferenced label
+F:\thuctap\PE_Infection\PE_Infection.cpp(71,4): warning C4102: 'getMessageBox': unreferenced label
+F:\thuctap\PE_Infection\PE_Infection.cpp(79,3): warning C4102: 'MessageBoxA': unreferenced label
+F:\thuctap\PE_Infection\PE_Infection.cpp(94,3): warning C4102: 'OEP': unreferenced label
+  Generating code
+  2 of 6 functions (33.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  PE_Infection.vcxproj -> F:\thuctap\PE_Infection\Release\PE_Infection.exe
